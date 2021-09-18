@@ -6,9 +6,9 @@
     * Google Play Store Apps: https://www.kaggle.com/lava18/google-play-store-apps
  
 * ## Preguntas de investigación
-    * ¿Cuál es la categoría de aplicaciones con mayor cantidad de instalaciones?
-    * ¿Cuáles son las aplicaciones con mayor cantidad de reseñas?
-    * Cual es la aplicación con categoría "COMICS"  con la mayor cantidad de reseñas?
+    * ¿Cuáles son los 10 precios de aplicaciones más frecuentes en Google Play Store?
+    * ¿Cuáles son los tamaños más comunes de las aplicaciones en Google Play Store?
+    * ¿Cuál es la aplicación con categoría "COMICS"  con la mayor cantidad de reseñas?
 * ## OpenRefine
   * ### Problemas identificados
     * El formato del atributo instalaciones y price no es apto para tratarlo como numérico.
