@@ -17,7 +17,7 @@
     * Tipos de conjuntos de datos
         * Record data: Es el más común, estos incluyen los que son de personas.
         * Basados en grafos: Relaciones entre objetos, por ejemplo si se realiza una araña en páginas web.
-        * Datos ordenados: Colecciones de datos de transacciones (temporal), secuencias de AND (secuencial), el valor de acciones (valor de acciones), precipitación (espacial).
+        * Datos ordenados: Colecciones de datos de transacciones (temporal), secuencias de AND (secuencial), el valor de acciones, precipitación (espacial).
         * Características generales:
             * Dimensionalidad: Número de columnas.
             * Dispersión: Hay valores más presentes en comparación a otros.
@@ -42,7 +42,7 @@
     * Estandarización: Transformar variables con una distribución normal, crea una variable con media 0 y desviación estándar 1. Sirve mejor que la normalización con datos anómalos.
  
 * ## Comentarios
-  * La teoría cubierta durante estas dos semanas sirvieron para aclarar la materia, ya que habían conceptos que no se han profundizado.
+  * La teoría cubierta durante estas dos semanas sirvieron para aclarar la materia, ya que habían conceptos que no se habían profundizado.
  
 * ## Dudas
   * No tengo dudas en estos temas.
