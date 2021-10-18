@@ -1,10 +1,10 @@
 ### Reporte 18-10-2021
-### Autor: Javier Abarca Jimenez 
+### Autor: Javier Abarca Jiménez 
 ### Carné: B70018
 
 ## Resumen de los temas
 * ## Modelos lineales
-    Este tipo de modelos suelen funcionar mejor en problemas de alta dimensionalidad. En esta técnica lo que se busca es minimizar un error o la pérdida (loss). Estos algoritmos son sensibles a la escala de los atributos, por lo que requieren que se apliquen técnicas de regularización o estandarización. Algunos tipos de regularizaciones:
+    Este tipo de modelos suelen funcionar mejor en problemas de alta dimensionalidad. En esta técnica lo que se busca es minimizar un error/pérdida (loss). Estos algoritmos son sensibles a la escala de los atributos, por lo que requieren que se apliquen técnicas de regularización o estandarización. Algunos tipos de regularizaciones son:
     * Alfa y C (complejidad): Función de costo compuesta por el error cuadrático medio, el alfa y la complejidad.
     * L1 o Lasso: Funciona bien para atributos irrelevantes o si no se sospecha que existe correlación entre atributos.
     * L2 o Ridge: Funciona bien si se sospecha que existe correlación entre atributos.
