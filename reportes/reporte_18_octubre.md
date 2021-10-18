@@ -14,19 +14,19 @@
     Un perceptrón es una estructura computacional que recibe varias entradas y con esto calcula un valor z. Esta estructura tiene dos partes, en una hace una operación sobre las entradas y en la otra realiza una operación sobre el valor z calculado. Según este último lado se decide si la señal se propaga o es suprimida. Las regresiones logísticas utilizan esta misma lógica.
 
 * ## Redes neuronales
-    Las redes neuronales se pueden ver como métodos lineales de manera general, pero en este procesamiento se involucran múltiples niveles para llegar a tomar una decisión. Cada una de las neuronas aplican alguna función no lineal
+    Las redes neuronales se pueden ver como métodos lineales de manera general, con la diferencia de que en este procesamiento se involucran múltiples niveles para llegar a tomar una decisión. Cada una de las neuronas aplican alguna función no lineal.
 
 * ## Maquina de soporte vectorial
-    Los algoritmos de entrenamiento SVM (Support Vector Machines) buscan encontrar una línea o un hiperplano que sea la mejor separación entre clases. Este hiperplano es definido mediante un margen utilizado para la toma de decisiones según una distancia calculada. Este algoritmo tiene modificaciones como la basada en pesos, en esta modificación cuando ocurre una clasificación errónea hay una penalización o castigo según el peso.
+    Los algoritmos de entrenamiento SVM (Support Vector Machines) buscan encontrar una línea o un hiperplano que sea la mejor separación entre clases. Este hiperplano es definido mediante un margen utilizado para la toma de decisiones según una distancia calculada. Este algoritmo tiene modificaciones como la basada en pesos, en la cual cuando ocurre una clasificación errónea hay una penalización o castigo según el peso.
     
 ## Comentarios
   * Esta materia sirvió bastante para poder desarrollar mejor la parte práctica del video 1.
- 
+
 ## Dudas
   * No tengo dudas en estos temas.
- 
+
 ## Usos
   * Poder entender lo que sucede al emplear estos modelos para resolver una problemática de interés.
- 
+
 ## Material extra
   * No se utilizó material extra.
