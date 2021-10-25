@@ -1,7 +1,7 @@
 ### Reporte Conceptual Multi-Layer Perceptron
 ### Estudiante: Javier Abarca Jimenez
 ### Carné: B70018
-### Enlace: [CHow to Choose an Activation Function for Deep Learning](https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/)
+### Enlace: [How to Choose an Activation Function for Deep Learning](https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/)
  
 ## Resumen
 * ### Activation Functions
